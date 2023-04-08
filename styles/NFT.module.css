@@ -1,0 +1,13 @@
+.container {
+  padding: 24px;
+}
+
+.info {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 24px;
+  text-align: center;
+  flex-wrap: wrap;
+  gap: 24;
+}

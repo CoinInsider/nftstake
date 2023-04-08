@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.Link {
+font-size: large;
+font-weight: bold;
+margin-right: 20px;
+color: white;
+}
+
+.link:hover {
+  border-bottom: 2px solid white;
+}
+
+.active {
+font-size: large;
+font-weight: bold;
+margin-right: 20px;
+color: rgb(214, 65,222);
+border-bottom: rgb(214, 65, 222);
+}
